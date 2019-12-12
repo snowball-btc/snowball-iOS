@@ -1,0 +1,6 @@
+framework module snowball_iOS {
+  umbrella header "snowball-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

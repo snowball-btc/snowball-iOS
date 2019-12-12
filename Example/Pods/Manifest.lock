@@ -1,0 +1,16 @@
+PODS:
+  - snowball-iOS (0.1.0)
+
+DEPENDENCIES:
+  - snowball-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  snowball-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  snowball-iOS: ada007d60b48b3ce2a00234d154198526a06f196
+
+PODFILE CHECKSUM: 9a2c775958e74292626d2048ff8eac843efe9f34
+
+COCOAPODS: 1.8.4
