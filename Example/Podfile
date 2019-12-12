@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'snowball-iOS_Example' do
+  pod 'snowball-iOS', :path => '../'
+
+  target 'snowball-iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
