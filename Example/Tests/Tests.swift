@@ -1,5 +1,5 @@
 import XCTest
-import snowball-iOS
+//import snowball-iOS FIXME
 
 class Tests: XCTestCase {
     
